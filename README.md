@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemwael9898&layout=donut" alt="Top Languages" height="215px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kareemwael9898&show_icons=true&hide=prs" alt="Your GitHub Stats" height="215px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemwael9898&layout=donut" alt="Top Languages" height="215px"/>
 </p>
 
 ## 🌐 Let's Connect!
