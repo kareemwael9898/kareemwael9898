@@ -3,11 +3,13 @@
 
 ## 🔧 Technologies & Tools
 - 💻 &nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
+![Flutter](https://img.shields.io/badge/-Flutter-666666?logo=flutter&logoColor=1EBBFD&labelColor=white&color=007EC6)
 ![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk&logoColor=red)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat)
+
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
